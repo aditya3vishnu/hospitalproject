@@ -1,0 +1,7 @@
+2021/04/29-14:13:01.725 dc8 Recovering log #2498
+2021/04/29-14:13:01.726 dc8 Level-0 table #2500: started
+2021/04/29-14:13:01.805 dc8 Level-0 table #2500: 250 bytes OK
+2021/04/29-14:13:01.805 dc8 Recovering log #2501
+2021/04/29-14:13:01.918 dc8 Delete type=0 #2498
+2021/04/29-14:13:01.919 dc8 Delete type=0 #2501
+2021/04/29-14:13:01.919 dc8 Delete type=3 #2496
