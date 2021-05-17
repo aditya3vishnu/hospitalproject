@@ -1,7 +1,5 @@
-2021/04/29-14:13:01.725 dc8 Recovering log #2498
-2021/04/29-14:13:01.726 dc8 Level-0 table #2500: started
-2021/04/29-14:13:01.805 dc8 Level-0 table #2500: 250 bytes OK
-2021/04/29-14:13:01.805 dc8 Recovering log #2501
-2021/04/29-14:13:01.918 dc8 Delete type=0 #2498
-2021/04/29-14:13:01.919 dc8 Delete type=0 #2501
-2021/04/29-14:13:01.919 dc8 Delete type=3 #2496
+2021/05/17-17:51:32.342 2ea8 Recovering log #9189
+2021/05/17-17:51:32.342 2ea8 Level-0 table #9191: started
+2021/05/17-17:51:32.492 2ea8 Level-0 table #9191: 250 bytes OK
+2021/05/17-17:51:32.777 2ea8 Delete type=0 #9189
+2021/05/17-17:51:32.777 2ea8 Delete type=3 #9187

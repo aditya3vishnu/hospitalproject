@@ -33,7 +33,7 @@ exports.getHospitalsNearby = (req, res) => {
                 status: 200,
                 doc: doc.rows
             })
-            console.log(doc.rows)
+            // console.log(doc.rows)
         }
     })
 }
